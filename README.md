@@ -1,4 +1,4 @@
-# Research-project
+# Identifying sub-fields of Business English by clustering text embeddings
 
 This repository shares the content of the research project "Identifying sub-fields of Business English by clustering text embeddings" which 
 I've been working on for 6 months and recently published at ISSI 2023. 
